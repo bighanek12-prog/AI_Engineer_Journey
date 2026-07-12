@@ -58,6 +58,27 @@ Created a `Student` class with:
 - Difference between `print()` and `return`.
 - Difference between mutable and immutable objects.
 - How to commit and push code using Git.
+## ✅ Day 2
+
+### Topics Learned
+- Python Modules
+- Creating and Importing Modules
+- File Handling
+  - Read (`r`)
+  - Write (`w`)
+  - Append (`a`)
+- Why `with open()` is preferred
+
+### Practical Work
+- Built a Calculator module
+- Created a Student Record program
+- Read and wrote data to text files
+- Appended new student records
+
+### Key Takeaways
+- Organized Python code using modules.
+- Learned the difference between `r`, `w`, and `a`.
+- Understood why `with open()` automatically closes files.
 
 ### Current Courses
 - MIT 6.86 Machine Learning
