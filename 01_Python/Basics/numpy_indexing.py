@@ -60,6 +60,7 @@ print(arr > 10)
 
 print(arr[arr > 10])
 
+
 arr = np.array([1,2,3,4,5,6,7,8])
 
 # For even numbers
