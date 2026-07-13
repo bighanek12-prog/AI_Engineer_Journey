@@ -80,6 +80,35 @@ Created a `Student` class with:
 - Learned the difference between `r`, `w`, and `a`.
 - Understood why `with open()` automatically closes files.
 
+## 📅 Day 3 - NumPy Fundamentals
+
+### 📚 Topics Covered
+- Introduction to NumPy
+- Array Indexing
+- Array Slicing
+- Working with 2D Arrays
+- Boolean Masking
+- Filtering data using conditions
+- Combining multiple conditions using `&`
+
+### 💡 Concepts Learned
+- Accessing elements using indexes
+- Extracting rows and columns from 2D arrays
+- Using slicing (`start:stop:step`)
+- Selecting data based on conditions
+- Difference between Python lists and NumPy arrays
+
+### 📝 Practice
+- Solved indexing exercises
+- Solved slicing exercises
+- Practiced 2D array manipulation
+- Implemented Boolean Masking examples
+
+### 📂 Files
+- `01_Python/Basics/numpy_indexing.py`
+
+---
+
 ### Current Courses
 - MIT 6.86 Machine Learning
 - Daily Python Practice
